@@ -1,0 +1,12 @@
+Tomate Arbol             1500.0    uploads/tomateArbol.jpg                                                                             
+Manzana verde            600.0     uploads/manzanaVerde.jpg                                                                            
+Tomate                   460.0     uploads/tomate.jpg                                                                                  
+Pepino negro             1000.0    uploads/pepinoNegro.jpg                                                                             
+Trident                  1200.0    uploads/trident.jpg                                                                                 
+Gomita trululu aro       300.0     uploads/trululuAro.jpg                                                                              
+Pera                     400.0     uploads/pera.jpg                                                                                    
+Guayaba                  1200.0    uploads/guayaba.jpg                                                                                 
+Mango                    1300.0    uploads/mango.jpg                                                                                   
+Papaya                   2100.0    uploads/papaya.jpg                                                                                  
+Pitaya                   2300.0    uploads/pitaya.jpg                                                                                  
+Cilantro                 1000.0    uploads/cilantro.jpg                                                                                
